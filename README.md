@@ -6,4 +6,5 @@ Un pulsador enciende la Rasberry actuando sobre pin de "RUN", siempre y cuando s
 
 Otro pulsado apaga la Raspberry. Cuando se pulsa se activa la entrada digital GPIO20, que ejecuta un "sudo shutdown now".
 
+Código adaptado de este otro [repositorio:](https://github.com/halofx/rpi-shutdown)
 
