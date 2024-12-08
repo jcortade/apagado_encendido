@@ -10,5 +10,5 @@ Código adaptado de este otro [repositorio](https://github.com/halofx/rpi-shutdo
 
 Circuito implementado:
 
-![Circuito de encendido](https://github.com/jcortade/apagado_encendido/blob/main/Encendido.png](https://github.com/jcortade/apagado_encendido/blob/main/Encendido%20RPi.png)
+![Circuito de encendido](https://github.com/jcortade/apagado_encendido/blob/b46286e7a8baad71da665b34c098365657bb6215/Encendido%20RPi.png)
 
