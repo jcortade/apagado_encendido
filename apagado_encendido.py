@@ -5,7 +5,7 @@ GPIO.setmode(GPIO.BCM)             # choose BCM or BOARD
 GPIO.setup(21, GPIO.OUT)           # set GPIO21 as an output   
 GPIO.setup(20, GPIO.IN, pull_up_down = GPIO.PUD_UP) # Configuración GPIO20 como entrada
 
-# Our function on what to do when the button is pressed  
+# Our function on what to do when the OFF button is pressed  
 def Shutdown(channel):  
     os.system("sudo shutdown -h now")
 
